@@ -1,0 +1,18 @@
+.dummy{
+    border: 2px black dashed;
+    width: 200px;
+}
+#boy{
+    position: relative;
+    top: 40px;
+    z-index: 2;
+}
+#ring{
+    position: relative;
+    bottom: 40px;
+    z-index: 1;
+}
+#water{
+    position: relative;
+    top: -100px;
+}
